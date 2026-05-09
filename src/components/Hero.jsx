@@ -72,10 +72,10 @@ export default function Hero() {
             <a href="https://github.com/Shrinidhi972004" target="_blank" rel="noopener noreferrer" className="text-muted hover:text-accent transition-colors">
               <GitBranch size={20} />
             </a>
-            <a href="https://linkedin.com/in/shrinidhi-kulkarni" target="_blank" rel="noopener noreferrer" className="text-muted hover:text-accent transition-colors">
+            <a href="https://www.linkedin.com/in/shrinidhi-upadhyaya-82114a26a/" target="_blank" rel="noopener noreferrer" className="text-muted hover:text-accent transition-colors">
               <ExternalLink size={20} />
             </a>
-            <a href="mailto:shrinidhi@example.com" className="text-muted hover:text-accent transition-colors">
+            <a href="mailto:shrinidhiupadhyaya@gmail.com" className="text-muted hover:text-accent transition-colors">
               <Mail size={20} />
             </a>
           </div>
